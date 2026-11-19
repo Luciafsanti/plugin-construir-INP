@@ -1,0 +1,21 @@
+[general]
+name=SWMM Street Builder
+qgisMinimumVersion=3.22
+description=Genera un modelo SWMM (.inp) de escurrimiento superficial en calles a partir de DEM, ejes de calle, manzanas y uso de suelo.
+version=0.6.0
+author=Generado con Claude
+email=noreply@example.com
+
+about=Construye automaticamente nodos, conductos tipo calle (STREET), subcuencas por manzana y el archivo .inp de EPA SWMM 5.2, siguiendo un flujo de modelacion de sistema mayor (escurrimiento superficial en calzada). Soporta opcionalmente multiples pluviometros (shp + CSV), conductos de rio de seccion irregular (TRANSECTS) y Storage Units (embalses/lagunas). Incluye capas GIS equivalentes al modelo exportado.
+
+tracker=https://github.com/example/swmm-street-builder/issues
+repository=https://github.com/example/swmm-street-builder
+
+hasProcessingProvider=yes
+tags=swmm,hydrology,hydraulics,drainage,street flooding,epa swmm,urban drainage
+category=Analysis
+homepage=https://github.com/example/swmm-street-builder
+icon=icons/icon.png
+experimental=True
+deprecated=False
+server=False
