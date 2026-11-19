@@ -1,4 +1,4 @@
-# SWMM Street Builder — Plugin de QGIS
+# plugin-construir-INP — Plugin de QGIS
 
 Genera un modelo **EPA SWMM 5.2** de escurrimiento superficial en calles (sistema mayor, conductos con sección `STREET`) a partir de:
 
