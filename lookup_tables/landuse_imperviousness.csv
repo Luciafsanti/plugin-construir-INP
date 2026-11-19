@@ -1,0 +1,6 @@
+class_value,pct_imperv,description,cn
+1,100,agua / cuerpos de agua,100
+3,20,vegetacion,70
+8,60,suelo descubierto / vegetacion poco densa,77
+9,90,urbano,90
+10,75,desmonte / suelo descubierto,86
